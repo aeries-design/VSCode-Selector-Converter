@@ -3,7 +3,7 @@
 	"publisher": "davidlinc1",
 	"displayName": "Convert CSS selectors to parenthetical attribute classes for Vue",
 	"description": "Highlight a CSS selector like .test.class and it will be converted to (class='test class'). Useful for Vue development.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
