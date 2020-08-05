@@ -36,7 +36,7 @@ function activate(context) {
 
 		// Display a message box to the user
 		//vscode.window.showInformationMessage('Converted CSS dot notation to parenthetical attribute classes.');
-		vscode.window.showInformationMessage(highlight);
+		// vscode.window.showInformationMessage("Text conver");
 	});
 
 	context.subscriptions.push(disposable);
