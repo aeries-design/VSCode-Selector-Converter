@@ -3,7 +3,7 @@
 	"publisher": "davidlinc1",
 	"displayName": "Convert CSS selectors to parenthetical attribute classes for Vue",
 	"description": "Highlight a CSS selector like .test.class and it will be converted to (class='test class'). Useful for Vue development.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
@@ -30,7 +30,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aeries-design/VSCode-Selector-Converter.git"
-	  },
+	},
 	"devDependencies": {
 		"@types/vscode": "^1.47.0",
 		"@types/glob": "^7.1.1",
